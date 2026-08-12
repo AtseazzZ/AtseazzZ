@@ -1,25 +1,25 @@
-<!-- 开头的 "嘿" 横幅，你可以换成自己的图片 -->
+<!-- Header banner, replace with your own image if you like -->
 <!-- <img src="https://your-banner-image-url.png" alt="banner" /> -->
 
-# 👋 你好，我是 Atsea_zzZ
+# 👋 Hi, I'm Atsea_zzZ
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&center=false&vCenter=true&width=550&lines=后端开发工程师;Java+%7C+Spring+生态;全栈路上的探索者)](https://git.io/typing-svg)
-
----
-
-## 🧑‍💻 关于我
-
-- 🔭 我目前专注于 **Java 后端开发**，主要围绕 Spring Boot、Spring Cloud 构建微服务应用。
-- 🌱 正在深入 **JVM 调优** 与 **分布式系统设计**，同时保持对云原生技术的关注。
-- 💬 乐意交流 Java 生态、数据库设计、系统架构、前后端协作相关的话题。
-- 📫 联系我：`2787220549@qq.com`。
-- ⚡ 日常以外：喜欢研究命令行工具、折腾自部署服务，偶尔写点技术笔记。
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&center=false&vCenter=true&width=550&lines=Backend+Developer;Java+%7C+Spring+Ecosystem;Full-stack+Explorer)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ 技术栈与工具
+## 🧑‍💻 About Me
 
-### 后端
+- 🔭 I'm currently focused on **Java backend development**, building microservices with Spring Boot and Spring Cloud.
+- 🌱 Diving deeper into **JVM tuning** and **distributed system design**, while keeping an eye on cloud-native technologies.
+- 💬 Open to discussions about Java ecosystem, database design, system architecture, and frontend-backend collaboration.
+- 📫 Reach me at: `2787220549@qq.com`.
+- ⚡ Fun fact: I enjoy exploring CLI tools, self-hosting services, and occasionally writing tech notes.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Backend
 
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></a>
@@ -28,7 +28,7 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
 
-### 前端
+### Frontend
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
@@ -37,10 +37,11 @@
 <a href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Router" /></a>
 <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black" alt="Pinia" /></a>
 
-### 基础设施与工具
+### Infrastructure & Tools
 
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
 
+---
