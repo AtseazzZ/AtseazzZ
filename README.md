@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Atsea_zzZ
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&center=false&vCenter=true&width=550&lines=Backend+Developer;Java+%7C+Spring+Ecosystem;Full-stack+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3B82F6&center=false&vCenter=true&width=550&lines=Backend+Developer;Java+%7C+Spring+Ecosystem;AI+Agent+Learner;Full-stack+Explorer)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AtseazzZ&label=Profile%20Views&color=3B82F6&style=for-the-badge)
 
@@ -12,8 +12,9 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I'm currently focused on **Java backend development**, building microservices with Spring Boot and Spring Cloud.
+- 🤖 Currently learning **AI Agent development** — LLM application frameworks, tool calling, and the Model Context Protocol (MCP).
 - 🌱 Diving deeper into **JVM tuning** and **distributed system design**, while keeping an eye on cloud-native technologies.
-- 💬 Open to discussions about Java ecosystem, database design, system architecture, and frontend-backend collaboration.
+- 💬 Open to discussions about Java ecosystem, database design, system architecture, agent engineering, and frontend-backend collaboration.
 - 📫 Reach me at: `2787220549@qq.com`.
 - ⚡ Fun fact: I enjoy exploring CLI tools, self-hosting services, and occasionally writing tech notes.
 
@@ -51,6 +52,13 @@
 <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
 <a href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Router" /></a>
 <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black" alt="Pinia" /></a>
+
+### AI & Agent
+
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" /></a>
+<a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
 
 ### Infrastructure & Tools
 
