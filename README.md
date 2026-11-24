@@ -76,6 +76,7 @@
 <p align="left">
   <a href="mailto:2787220549@qq.com"><img src="https://img.shields.io/badge/Email-2787220549@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/AtseazzZ"><img src="https://img.shields.io/badge/GitHub-Atsea_zzZ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://atseazzz.github.io/"><img src="https://img.shields.io/badge/Blog-Atsea_zzZ's%20Island-C9784E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal Blog" /></a>
 </p>
 
 ---
